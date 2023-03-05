@@ -1,2 +1,2 @@
 # Websites-Cloning
-Learn CSS &amp; HTML By Cloning Websites
+Learn HTML &amp; CSS By Cloning Websites
